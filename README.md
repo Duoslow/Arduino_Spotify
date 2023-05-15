@@ -21,8 +21,9 @@ https://github.com/Duoslow/Arduino_Spotify/assets/16846504/62f02af7-657f-474d-b6
 1. Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications)
 2. Create a new application
 3. Copy the Client ID and Client Secret
-4. Paste the Client ID and Client Secret into the `config.json` file
-5. Run the code
+4. Paste the Client ID and Client Secret into the `example_config.json` file
+5. Rename the `example_config.json` file to `config.json`
+6. Run the code
 
 ## Built With
 * [LiquidCrystal_I2C](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) - The library used to control the LCD screen (it is also available in the Arduino IDE library manager)
