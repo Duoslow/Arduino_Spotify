@@ -26,3 +26,7 @@ This project is a simple Arduino Uno project that displays the currently playing
 * [Spotify API](https://developer.spotify.com/documentation/web-api) - The API used to get the currently playing song
 
 ## Example Video
+
+
+https://github.com/Duoslow/Arduino_Spotify/assets/16846504/62f02af7-657f-474d-b6a9-3359162f8c9a
+
