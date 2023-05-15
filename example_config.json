@@ -1,0 +1,13 @@
+{
+    "Spotify":{
+        "scope": "user-read-currently-playing",
+        "client_secret": "",
+        "client_id": "",
+        "redirect_uri": "",
+        "username": ""
+    },
+    "Arduino":{
+        "port": "COM4",
+        "baudRate": 9600
+    }
+}
