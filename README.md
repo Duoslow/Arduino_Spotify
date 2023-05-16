@@ -29,7 +29,7 @@ https://github.com/Duoslow/Arduino_Spotify/assets/16846504/62f02af7-657f-474d-b6
 * [LiquidCrystal_I2C](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) - The library used to control the LCD screen (it is also available in the Arduino IDE library manager)
 * [Spotify API](https://developer.spotify.com/documentation/web-api) - The API used to get the currently playing song
 
-## for automation
+## For automation
 * you can use the windows task scheduler to run the python script on at log on (Don't forget to change the Start in directory to the directory of the python script)
 
-
+## If you like it please leave a star on the project. Also feel free to fork it and say Hi :)
